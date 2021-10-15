@@ -3,6 +3,6 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - pandas=1.2.4=py38h23ab428_0
-  - streamlit=0.85.0=pyhd8ed1ab_0
+  - pandas=1.2.4
+  - streamlit=0.85.0
 prefix: /Users/satotakumi/opt/anaconda3
